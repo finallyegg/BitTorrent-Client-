@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+venv
+/downloaded/*
+/example2
+.DS_Store
+src/.DS_Store
