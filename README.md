@@ -1,5 +1,9 @@
 # BitTorrent
 
+## Usage
+`python3 main.py TORRENTFILE`
+- file will saved in downloaded dir
+- you pause or cancel the program any time by Ctrl + C, any downloading progress will be saved
 ## Features
 
 ### Core Features
